@@ -1,3 +1,9 @@
+#filters {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
 .routes-grid {
     display: flex;
     flex-direction: column;
